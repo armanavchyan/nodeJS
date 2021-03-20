@@ -1,0 +1,14 @@
+1.
+// console.log(__filename);
+// console.log(__filename.length);
+
+// const random = require('random');
+// console.log(random.int(0,100));
+// console.log(random.int(0,100));
+// console.log(random.int(0,100));
+// console.log(random.int(0,100));
+// console.log(random.int(0,100));
+//  const showTime = require('./modules/currentTime ');
+//  showTime.showTime();
+// const wordsFromString = require('./modules/wordsFromString');
+// wordsFromString.wordsFromString('bar$v vonc es ax&ep jan');
